@@ -82,10 +82,10 @@ There are 4 types of users on the system:
 
 
 # Technologies:
--Microsoft Visual Studio
--Microsoft SQL Server (SQL)
--ASP.NET Web application (.NET Framework)
--C#
+* Microsoft Visual Studio
+* Microsoft SQL Server (SQL)
+* ASP.NET Web application (.NET Framework)
+* C#
 
 # Setup:
 To run this project:
