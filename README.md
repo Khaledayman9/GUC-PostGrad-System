@@ -1,5 +1,5 @@
 # GUC PostGrad System
-System built to provide post graduation services, keep track of students doing their postgrad studies as well as manage the process of students taking prerequisite courses for the postgrad studies. Created the website/front-end as an ASP.NET Web application (.NET Framework) using C# and the Database using Microsoft SQL server (SQL).
+System built to provide post graduation services, keep track of students doing their postgrad studies as well as manage the process of students taking prerequisite courses for the postgrad studies. Implementing the Front-end as an ASP.NET Web application (.NET Framework) using C# and the Database using Microsoft SQL server (SQL).
 
 
 
