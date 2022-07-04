@@ -14,7 +14,7 @@ There are 4 types of users on the system:
 
 # Functionalities:
 
-- A Student can do the following:
+1- A Student can do the following:
 
  * View my profile that contain all my information.
 
@@ -27,7 +27,7 @@ There are 4 types of users on the system:
  * I can add a publication and link it to my on going thesis.
 
 
-- A Supervisor can do the following: 
+2- A Supervisor can do the following: 
 
  * List all my students names and years spent in the thesis.
 
@@ -40,7 +40,7 @@ There are 4 types of users on the system:
  * Cancel a Thesis if the evaluation of the last progress report is zero.
 
 
-- An Admin can do the following: 
+3- An Admin can do the following: 
 
  * List all supervisors in the system.
 
@@ -53,7 +53,7 @@ There are 4 types of users on the system:
  * Update the number of thesis extension by 1.
 
 
-- An Examiner can do the following: 
+4- An Examiner can do the following: 
 
  * Edit my personal information, my name and fieldOfWork
 
