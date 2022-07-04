@@ -6,9 +6,9 @@ System built to provide post graduation services, keep track of students doing t
 # Users:
 
 There are 4 types of users on the system:
-* Student (Can register for either Master or PhD).
+* Student (A student can register for either Master or PhD, and is either Gucian or NonGucian).
 * Supervisor (A supervisor is responsible for the supervision of students doing their theses).
-* Examiner (examiners attend to evaluate the defense and provide his/her comments).
+* Examiner (An examiner attends to evaluate the defense and provide his/her comments).
 * Admin
 
 
